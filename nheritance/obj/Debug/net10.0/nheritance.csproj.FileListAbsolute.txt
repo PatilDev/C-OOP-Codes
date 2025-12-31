@@ -1,0 +1,14 @@
+C:\Users\heman\source\repos\nheritance\nheritance\bin\Debug\net10.0\nheritance.exe
+C:\Users\heman\source\repos\nheritance\nheritance\bin\Debug\net10.0\nheritance.deps.json
+C:\Users\heman\source\repos\nheritance\nheritance\bin\Debug\net10.0\nheritance.runtimeconfig.json
+C:\Users\heman\source\repos\nheritance\nheritance\bin\Debug\net10.0\nheritance.dll
+C:\Users\heman\source\repos\nheritance\nheritance\bin\Debug\net10.0\nheritance.pdb
+C:\Users\heman\source\repos\nheritance\nheritance\obj\Debug\net10.0\nheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heman\source\repos\nheritance\nheritance\obj\Debug\net10.0\nheritance.AssemblyInfoInputs.cache
+C:\Users\heman\source\repos\nheritance\nheritance\obj\Debug\net10.0\nheritance.AssemblyInfo.cs
+C:\Users\heman\source\repos\nheritance\nheritance\obj\Debug\net10.0\nheritance.csproj.CoreCompileInputs.cache
+C:\Users\heman\source\repos\nheritance\nheritance\obj\Debug\net10.0\nheritance.dll
+C:\Users\heman\source\repos\nheritance\nheritance\obj\Debug\net10.0\refint\nheritance.dll
+C:\Users\heman\source\repos\nheritance\nheritance\obj\Debug\net10.0\nheritance.pdb
+C:\Users\heman\source\repos\nheritance\nheritance\obj\Debug\net10.0\nheritance.genruntimeconfig.cache
+C:\Users\heman\source\repos\nheritance\nheritance\obj\Debug\net10.0\ref\nheritance.dll
